@@ -1,6 +1,6 @@
 Major Project Report of Internship – SURE TRUST
 
-📌 Project Overview
+📌 Project Overview:
 This repository showcases my internship projects with SURE TRUST, focusing on:
 
 Fitness Performance & Health Analytics – analysis of health and fitness data using interactive dashboards.
